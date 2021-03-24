@@ -1,0 +1,76 @@
+//
+// Generated with FrostbiteGen by Chod
+// File: SDK\InputDevicePadButtons.h
+// Created: Wed Mar 10 19:06:28 2021
+//
+
+#ifndef FBGEN_InputDevicePadButtons_H
+#define FBGEN_InputDevicePadButtons_H
+
+enum InputDevicePadButtons
+{
+	IDB_Lup = 0x0,
+	IDB_Ldown = 0x1,
+	IDB_Lleft = 0x2,
+	IDB_Lright = 0x3,
+	IDB_Rup = 0x4,
+	IDB_Rdown = 0x5,
+	IDB_Rleft = 0x6,
+	IDB_Rright = 0x7,
+	IDB_Rtopleft = 0x8,
+	IDB_Rtopright = 0x9,
+	IDB_Lthumb = 0xa,
+	IDB_Rthumb = 0xb,
+	IDB_start = 0xc,
+	IDB_alt = 0xd,
+	IDB_Ltrigger = 0xe,
+	IDB_Rtrigger = 0xf,
+	IDB_Ltrigger2 = 0x10,
+	IDB_Rtrigger2 = 0x11,
+	IDB_XButton1 = 0x12,
+	IDB_XButton2 = 0x13,
+	IDB_XButton3 = 0x14,
+	IDB_XButton4 = 0x15,
+	IDB_XButton5 = 0x16,
+	IDB_XButton6 = 0x17,
+	IDB_XButton7 = 0x18,
+	IDB_XButton8 = 0x19,
+	IDB_XButton9 = 0x1a,
+	IDB_XButton10 = 0x1b,
+	IDB_XButton11 = 0x1c,
+	IDB_XButton12 = 0x1d,
+	IDB_XButton13 = 0x1e,
+	IDB_XButton14 = 0x1f,
+	IDB_XButton15 = 0x20,
+	IDB_XButton16 = 0x21,
+	IDB_XButton17 = 0x22,
+	IDB_XButton18 = 0x23,
+	IDB_PosZAxis = 0x24,
+	IDB_NegZAxis = 0x25,
+	IDB_XRotationPos = 0x26,
+	IDB_XRotationNeg = 0x27,
+	IDB_YRotationPos = 0x28,
+	IDB_YRotationNeg = 0x29,
+	IDB_ZRotationPos = 0x2a,
+	IDB_ZRotationNeg = 0x2b,
+	IDB_Pov1North = 0x2c,
+	IDB_Pov1South = 0x2d,
+	IDB_Pov1West = 0x2e,
+	IDB_Pov1East = 0x2f,
+	IDB_Pov2North = 0x30,
+	IDB_Pov2South = 0x31,
+	IDB_Pov2West = 0x32,
+	IDB_Pov2East = 0x33,
+	IDB_Pov3North = 0x34,
+	IDB_Pov3South = 0x35,
+	IDB_Pov3West = 0x36,
+	IDB_Pov3East = 0x37,
+	IDB_Pov4North = 0x38,
+	IDB_Pov4South = 0x39,
+	IDB_Pov4West = 0x3a,
+	IDB_Pov4East = 0x3b,
+	IDB_Undefined = 0x3c,
+	IDB_NumPadButtons = 0x3c,
+};
+
+#endif // FBGEN_InputDevicePadButtons_H

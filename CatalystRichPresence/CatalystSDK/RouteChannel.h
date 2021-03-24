@@ -1,0 +1,77 @@
+//
+// Generated with FrostbiteGen by Chod
+// File: SDK\RouteChannel.h
+// Created: Wed Mar 10 19:02:34 2021
+//
+
+#ifndef FBGEN_RouteChannel_H
+#define FBGEN_RouteChannel_H
+
+enum RouteChannel
+{
+	RouteChannel_0 = 0x0,
+	RouteChannel_1 = 0x1,
+	RouteChannel_2 = 0x2,
+	RouteChannel_3 = 0x3,
+	RouteChannel_4 = 0x4,
+	RouteChannel_5 = 0x5,
+	RouteChannel_6 = 0x6,
+	RouteChannel_7 = 0x7,
+	RouteChannel_8 = 0x8,
+	RouteChannel_9 = 0x9,
+	RouteChannel_10 = 0xa,
+	RouteChannel_11 = 0xb,
+	RouteChannel_12 = 0xc,
+	RouteChannel_13 = 0xd,
+	RouteChannel_14 = 0xe,
+	RouteChannel_15 = 0xf,
+	RouteChannel_16 = 0x10,
+	RouteChannel_17 = 0x11,
+	RouteChannel_18 = 0x12,
+	RouteChannel_19 = 0x13,
+	RouteChannel_21 = 0x14,
+	RouteChannel_22 = 0x15,
+	RouteChannel_23 = 0x16,
+	RouteChannel_24 = 0x17,
+	RouteChannel_25 = 0x18,
+	RouteChannel_26 = 0x19,
+	RouteChannel_27 = 0x1a,
+	RouteChannel_28 = 0x1b,
+	RouteChannel_29 = 0x1c,
+	RouteChannel_30 = 0x1d,
+	RouteChannel_31 = 0x1e,
+	RouteChannel_32 = 0x1f,
+	RouteChannel_33 = 0x20,
+	RouteChannel_34 = 0x21,
+	RouteChannel_35 = 0x22,
+	RouteChannel_36 = 0x23,
+	RouteChannel_37 = 0x24,
+	RouteChannel_38 = 0x25,
+	RouteChannel_39 = 0x26,
+	RouteChannel_40 = 0x27,
+	RouteChannel_41 = 0x28,
+	RouteChannel_42 = 0x29,
+	RouteChannel_43 = 0x2a,
+	RouteChannel_44 = 0x2b,
+	RouteChannel_45 = 0x2c,
+	RouteChannel_46 = 0x2d,
+	RouteChannel_47 = 0x2e,
+	RouteChannel_48 = 0x2f,
+	RouteChannel_49 = 0x30,
+	RouteChannel_50 = 0x31,
+	RouteChannel_51 = 0x32,
+	RouteChannel_52 = 0x33,
+	RouteChannel_53 = 0x34,
+	RouteChannel_54 = 0x35,
+	RouteChannel_55 = 0x36,
+	RouteChannel_56 = 0x37,
+	RouteChannel_57 = 0x38,
+	RouteChannel_58 = 0x39,
+	RouteChannel_59 = 0x3a,
+	RouteChannel_60 = 0x3b,
+	RouteChannel_61 = 0x3c,
+	RouteChannel_62 = 0x3d,
+	RouteChannel_63 = 0x3e,
+};
+
+#endif // FBGEN_RouteChannel_H

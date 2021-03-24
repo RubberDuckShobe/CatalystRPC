@@ -1,0 +1,27 @@
+//
+// Generated with FrostbiteGen by Chod
+// File: SDK\OccluderVolumeEntityData.h
+// Created: Wed Mar 10 19:05:29 2021
+//
+
+#ifndef FBGEN_OccluderVolumeEntityData_H
+#define FBGEN_OccluderVolumeEntityData_H
+
+#include "SpatialEntityData.h"
+
+class OccluderVolumeEntityData :
+	public SpatialEntityData // size = 0x60
+{
+public:
+	static void* GetTypeInfo()
+	{
+		return (void*)0x0000000142842790;
+	}
+	float m_CoverageValue; // 0x60
+	bool m_OccluderHighPriority; // 0x64
+	bool m_OccluderIsConservative; // 0x65
+	bool m_Visible; // 0x66
+	unsigned char _0x67[0x9];
+}; // size = 0x70
+
+#endif // FBGEN_OccluderVolumeEntityData_H
