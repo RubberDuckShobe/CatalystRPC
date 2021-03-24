@@ -1,6 +1,8 @@
 # CatalystRPC
 Discord Rich Presence integration for Mirror's Edge Catalyst.
 
+**WARNING: This mod has a tendency to crash the game when it's minimized during loading.**
+
 ## Installation
 Simply download the .zip file from [the releases page](https://github.com/RubberDuckShobe/CatalystRPC/releases) and extract its contents into the same folder as the game executable.
 
