@@ -9,4 +9,4 @@ Simply download the .zip file from [the releases page](https://github.com/Rubber
 ## How to build
 To build CatalystRPC, you'll need Visual Studio 2019 and [vcpkg](https://github.com/microsoft/vcpkg).
 
-Once you have those set up, all that's left to do is install the discord-game-sdk package with ``vcpkg discord-game-sdk:x64-windows`` and you're ready to go!
+Once you have those set up, all that's left to do is install the discord-game-sdk package with ``vcpkg install discord-game-sdk:x64-windows`` and you're ready to go!
